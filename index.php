@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Personal Relationship Assistant - FriendlierMe</title>
-    <meta name="description" content="Helping busy professionals nurture their most important relationships.">
+    <meta name="description" content="Helping people nurture their most important relationships.">
     <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon" />
     <link href="css/style.css" rel="stylesheet" type="text/css" media="screen" />
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" type="text/css" rel="stylesheet">
