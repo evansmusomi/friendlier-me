@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Your Inner Circle Personal Relationship Assistant - FriendlierMe</title>
+    <title>Personal Relationship Assistant - FriendlierMe</title>
     <meta name="description" content="Helping busy professionals nurture their most important relationships.">
     <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon" />
     <link href="css/style.css" rel="stylesheet" type="text/css" media="screen" />
@@ -24,11 +24,11 @@
         <div class="banner-content"><!-- banner content started -->
             <div class="header"><!-- header started-->
               <h1 id="logo">FriendlierMe</h1>
-              <p class="line1">Your Inner Circle Personal Relationship Assistant</p>
+              <p class="line1">Personal Relationship Assistant</p>
             </div><!-- header ended-->
 
             <div class="content"><!-- content started-->
-                <p>COMING SOON: A better way for busy professionals to nurture their most important relationships</p>
+                <p>COMING SOON: A better way for people to nurture their most important relationships</p>
                 <div class="form"><!-- form started -->
                   <div class="mainform">
                     <form action="https://friendlierme.us9.list-manage.com/subscribe?u=471d32eae8eb4ba8b604b9263&id=7495c1136b" method="post" autocomplete="off" target="_blank" id="subscribe" name="subscribe">
