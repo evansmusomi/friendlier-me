@@ -2,6 +2,23 @@
 
 body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,dfn,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}
 
+select, textarea, button,  input[type="submit"], input[type="email"], input[type="password"], input[type="number"], input[type="text"] {
+  align-items: center;
+  background: transparent;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border: none;
+  -moz-border-radius: 0;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+  line-height: 130%;
+  padding: 3px 5px;
+  color: #666666;
+  font-size: 0.75em;
+  outline: none;
+}
+
 html,
 body{
   margin: 0;

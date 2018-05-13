@@ -86,5 +86,6 @@
           return false;
         });
     </script>
+    <?php include_once 'livechat.php'; ?>
 </body>
 </html>
