@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Personal Relationship Assistant - FriendlierMe</title>
-    <meta name="description" content="Helping people nurture their most important relationships.">
+    <meta name="description" content="Be a better friend to the people you care about the most.">
     <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon" />
     <link href="css/style.css" rel="stylesheet" type="text/css" media="screen" />
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" type="text/css" rel="stylesheet">
@@ -28,7 +28,7 @@
             </div><!-- header ended-->
 
             <div class="content"><!-- content started-->
-                <p>COMING SOON: A better way for people to nurture their most important relationships</p>
+                <p>COMING SOON: A better way for people to nurture their most important relationships. Be a better friend to the people you care about the most.</p>
                 <div class="form"><!-- form started -->
                   <div class="mainform">
                     <form action="https://friendlierme.us9.list-manage.com/subscribe?u=471d32eae8eb4ba8b604b9263&id=7495c1136b" method="post" autocomplete="off" target="_blank" id="subscribe" name="subscribe">
