@@ -28,7 +28,8 @@
             </div><!-- header ended-->
 
             <div class="content"><!-- content started-->
-                <p>COMING SOON: A better way for people to nurture their most important relationships. Be a better friend to the people you care about the most.</p>
+                <p>COMING SOON: A better way for people to nurture their most important relationships.</p> 
+                <p>Be a better friend to the people you care about the most.</p>
                 <div class="form"><!-- form started -->
                   <div class="mainform">
                     <form action="https://friendlierme.us9.list-manage.com/subscribe?u=471d32eae8eb4ba8b604b9263&id=7495c1136b" method="post" autocomplete="off" target="_blank" id="subscribe" name="subscribe">
